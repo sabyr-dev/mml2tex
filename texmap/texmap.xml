@@ -48,7 +48,7 @@
     <!--nbsp-->
     <char character="&#xA0;" string="~"/>
     <!--nbsp-->
-    <char character="&#xA0;" string="~" mode="text"/>
+    <char character="&#xA0;" string=" " mode="text"/>
     <!--INVERTED EXCLAMATION MARK -->
     <char character="&#xA1;" string="{\textexclamdown}" mode="text"/>
     <!--= \mathcent (txfonts), cent-->
