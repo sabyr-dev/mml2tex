@@ -634,9 +634,9 @@
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
     <char character="&#x3BC;" string="\mu"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
-    <char character="&#x3BC;" string="${\upmu}$" mode="text"/>
+    <char character="&#x3BC;" string="\mu" mode="text"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
-    <char character="&#x3BC;" string="$\boldsymbol{\upmu}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3BC;" string="\boldsymbol{\mu}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
     <char character="&#x3BC;" string="${\mu}$" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\nu} (omlmathrm), = \nuup (kpfonts mathdesign), = \upnu (upgreek),  nu, greek-->
