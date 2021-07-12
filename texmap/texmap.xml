@@ -414,19 +414,19 @@
     <!--= \Gamma (-slantedGreek), = \mathrm{\Gamma}, capital gamma, greek-->
     <char character="&#x393;" string="\Gamma"/>
     <!--= \Gamma (-slantedGreek), = \mathrm{\Gamma}, capital gamma, greek-->
-    <char character="&#x393;" string="${\Upgamma}$" mode="text"/>
+    <char character="&#x393;" string="{\Gamma}" mode="text"/>
     <!--= \Gamma (-slantedGreek), = \mathrm{\Gamma}, capital gamma, greek-->
-    <char character="&#x393;" string="$\boldsymbol{\Upgamma}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x393;" string="\boldsymbol{\Gamma}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Gamma (-slantedGreek), = \mathrm{\Gamma}, capital gamma, greek-->
-    <char character="&#x393;" string="${\Gamma}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x393;" string="{\Gamma}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \Delta (-slantedGreek), = \mathrm{\Delta}, capital delta, greek-->
     <char character="&#x394;" string="\Delta"/>
     <!--= \Delta (-slantedGreek), = \mathrm{\Delta}, capital delta, greek-->
-    <char character="&#x394;" string="${\Updelta}$" mode="text"/>
+    <char character="&#x394;" string="{\Delta}" mode="text"/>
     <!--= \Delta (-slantedGreek), = \mathrm{\Delta}, capital delta, greek-->
-    <char character="&#x394;" string="$\boldsymbol{\Updelta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x394;" string="\boldsymbol{\Delta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Delta (-slantedGreek), = \mathrm{\Delta}, capital delta, greek-->
-    <char character="&#x394;" string="${\Delta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x394;" string="{\Delta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER EPSILON -->
     <char character="&#x395;" string="E"/>
     <!-- GREEK CAPITAL LETTER EPSILON -->
@@ -442,11 +442,11 @@
     <!--= \Theta (-slantedGreek), = \mathrm{\Theta}, capital theta, greek-->
     <char character="&#x398;" string="\Theta"/>
     <!--= \Theta (-slantedGreek), = \mathrm{\Theta}, capital theta, greek-->
-    <char character="&#x398;" string="${\Uptheta}$" mode="text"/>
+    <char character="&#x398;" string="{\Theta}" mode="text"/>
     <!--= \Theta (-slantedGreek), = \mathrm{\Theta}, capital theta, greek-->
-    <char character="&#x398;" string="$\boldsymbol{\Uptheta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x398;" string="\boldsymbol{\Uheta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Theta (-slantedGreek), = \mathrm{\Theta}, capital theta, greek-->
-    <char character="&#x398;" string="${\Theta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x398;" string="{\Theta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER IOTA -->
     <char character="&#x399;" string="I"/>
     <!-- GREEK CAPITAL LETTER IOTA -->
@@ -458,11 +458,11 @@
     <!--= \Lambda (-slantedGreek), = \mathrm{\Lambda}, capital lambda, greek-->
     <char character="&#x39B;" string="\Lambda"/>
     <!--= \Lambda (-slantedGreek), = \mathrm{\Lambda}, capital lambda, greek-->
-    <char character="&#x39B;" string="${\Uplambda}$" mode="text"/>
+    <char character="&#x39B;" string="\Lambda}" mode="text"/>
     <!--= \Lambda (-slantedGreek), = \mathrm{\Lambda}, capital lambda, greek-->
-    <char character="&#x39B;" string="$\boldsymbol{\Uplambda}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x39B;" string="\boldsymbol{\Lambda}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Lambda (-slantedGreek), = \mathrm{\Lambda}, capital lambda, greek-->
-    <char character="&#x39B;" string="${\Lambda}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x39B;" string="{\Lambda}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER MU -->
     <char character="&#x39C;" string="M"/>
     <!-- GREEK CAPITAL LETTER MU -->
@@ -474,11 +474,11 @@
     <!--= \Xi (-slantedGreek), = \mathrm{\Xi}, capital xi, greek-->
     <char character="&#x39E;" string="\Xi"/>
     <!--= \Xi (-slantedGreek), = \mathrm{\Xi}, capital xi, greek-->
-    <char character="&#x39E;" string="${\Upxi}$" mode="text"/>
+    <char character="&#x39E;" string="{\Xi}" mode="text"/>
     <!--= \Xi (-slantedGreek), = \mathrm{\Xi}, capital xi, greek-->
-    <char character="&#x39E;" string="$\boldsymbol{\Upxi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x39E;" string="\boldsymbol{\Xi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Xi (-slantedGreek), = \mathrm{\Xi}, capital xi, greek-->
-    <char character="&#x39E;" string="${\Xi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x39E;" string="{\Xi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER OMICRON -->
     <char character="&#x39F;" string="O"/>
     <!-- GREEK CAPITAL LETTER OMICRON -->
@@ -486,11 +486,11 @@
     <!--= \Pi (-slantedGreek), = \mathrm{\Pi}, capital pi, greek-->
     <char character="&#x3A0;" string="\Pi"/>
     <!--= \Pi (-slantedGreek), = \mathrm{\Pi}, capital pi, greek-->
-    <char character="&#x3A0;" string="${\Uppi}$" mode="text"/>
+    <char character="&#x3A0;" string="{\Pi}" mode="text"/>
     <!--= \Pi (-slantedGreek), = \mathrm{\Pi}, capital pi, greek-->
-    <char character="&#x3A0;" string="$\boldsymbol{\Uppi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A0;" string="\boldsymbol{\Pi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Pi (-slantedGreek), = \mathrm{\Pi}, capital pi, greek-->
-    <char character="&#x3A0;" string="${\Pi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A0;" string="{\Pi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER RHO -->
     <char character="&#x3A1;" string="P"/>
     <!-- GREEK CAPITAL LETTER RHO -->
@@ -498,11 +498,11 @@
     <!--= \Sigma (-slantedGreek), = \mathrm{\Sigma}, capital sigma, greek-->
     <char character="&#x3A3;" string="\Sigma"/>
     <!--= \Sigma (-slantedGreek), = \mathrm{\Sigma}, capital sigma, greek-->
-    <char character="&#x3A3;" string="${\Upsigma}$" mode="text"/>
+    <char character="&#x3A3;" string="{\Sigma}" mode="text"/>
     <!--= \Sigma (-slantedGreek), = \mathrm{\Sigma}, capital sigma, greek-->
-    <char character="&#x3A3;" string="$\boldsymbol{\Upsigma}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A3;" string="\boldsymbol{\Sigma}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Sigma (-slantedGreek), = \mathrm{\Sigma}, capital sigma, greek-->
-    <char character="&#x3A3;" string="${\Sigma}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A3;" string="{\Sigma}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- GREEK CAPITAL LETTER TAU -->
     <char character="&#x3A4;" string="T"/>
     <!-- GREEK CAPITAL LETTER TAU -->
@@ -510,151 +510,151 @@
     <!--= \Upsilon (-slantedGreek), = \mathrm{\Upsilon}, capital upsilon, greek-->
     <char character="&#x3A5;" string="\Upsilon"/>
     <!--= \Upsilon (-slantedGreek), = \mathrm{\Upsilon}, capital upsilon, greek-->
-    <char character="&#x3A5;" string="${\Upupsilon}$" mode="text"/>
+    <char character="&#x3A5;" string="{\Upsilon}" mode="text"/>
     <!--= \Upsilon (-slantedGreek), = \mathrm{\Upsilon}, capital upsilon, greek-->
-    <char character="&#x3A5;" string="$\boldsymbol{\Upupsilon}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A5;" string="\boldsymbol{\Upsilon}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Upsilon (-slantedGreek), = \mathrm{\Upsilon}, capital upsilon, greek-->
-    <char character="&#x3A5;" string="${\Upsilon}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A5;" string="{\Upsilon}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \Phi (-slantedGreek), = \mathrm{\Phi}, capital phi, greek-->
     <char character="&#x3A6;" string="\Phi"/>
     <!--= \Phi (-slantedGreek), = \mathrm{\Phi}, capital phi, greek-->
-    <char character="&#x3A6;" string="${\Upphi}$" mode="text"/>
+    <char character="&#x3A6;" string="{\Phi}" mode="text"/>
     <!--= \Phi (-slantedGreek), = \mathrm{\Phi}, capital phi, greek-->
-    <char character="&#x3A6;" string="$\boldsymbol{\Upphi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A6;" string="\boldsymbol{\Phi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Phi (-slantedGreek), = \mathrm{\Phi}, capital phi, greek-->
-    <char character="&#x3A6;" string="${\Phi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A6;" string="{\Phi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \Phi (-slantedGreek), = \mathrm{\Phi}, capital phi, greek-->
-    <char character="&#x396;" string="$\boldsymbol{\upzeta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x396;" string="\boldsymbol{\zeta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!-- GREEK CAPITAL LETTER CHI -->
     <char character="&#x3A7;" string="X"/>
     <!-- GREEK CAPITAL LETTER CHI -->
     <char character="&#x3A7;" string="X" mode="text"/>
     <!-- GREEK CAPITAL LETTER CHI -->
-    <char character="&#x3A7;" string="$\boldsymbol{\upeta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A7;" string="\boldsymbol{\eta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Psi (-slantedGreek), = \mathrm{\Psi}, capital psi, greek-->
     <char character="&#x3A8;" string="\Psi"/>
     <!--= \Psi (-slantedGreek), = \mathrm{\Psi}, capital psi, greek-->
-    <char character="&#x3A8;" string="${\Uppsi}$" mode="text"/>
+    <char character="&#x3A8;" string="{\psi}" mode="text"/>
     <!--= \Psi (-slantedGreek), = \mathrm{\Psi}, capital psi, greek-->
-    <char character="&#x3A8;" string="$\boldsymbol{\Uppsi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A8;" string="\boldsymbol{\Psi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Psi (-slantedGreek), = \mathrm{\Psi}, capital psi, greek-->
-    <char character="&#x3A8;" string="${\Psi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A8;" string="{\Psi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \Omega (-slantedGreek), = \mathrm{\Omega}, capital omega, greek-->
     <char character="&#x3A9;" string="\Omega"/>
     <!--= \Omega (-slantedGreek), = \mathrm{\Omega}, capital omega, greek-->
-    <char character="&#x3A9;" string="${\Omega}$" mode="text"/>
+    <char character="&#x3A9;" string="{\Omega}" mode="text"/>
     <!--= \Omega (-slantedGreek), = \mathrm{\Omega}, capital omega, greek-->
-    <char character="&#x3A9;" string="$\boldsymbol{\Omega}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3A9;" string="\boldsymbol{\Omega}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \Omega (-slantedGreek), = \mathrm{\Omega}, capital omega, greek-->
-    <char character="&#x3A9;" string="${\Omega}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3A9;" string="{\Omega}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\alpha} (omlmathrm), = \alphaup (kpfonts mathdesign), = \upalpha (upgreek),  alpha, greek-->
     <char character="&#x3B1;" string="\alpha"/>
     <!--= \mathrm{\alpha} (omlmathrm), = \alphaup (kpfonts mathdesign), = \upalpha (upgreek),  alpha, greek-->
     <char character="&#x3B1;" string="\alpha" mode="text"/>
     <!--= \mathrm{\alpha} (omlmathrm), = \alphaup (kpfonts mathdesign), = \upalpha (upgreek),  alpha, greek-->
-    <char character="&#x3B1;" string="$\boldsymbol{\upalpha}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B1;" string="\boldsymbol{\alpha}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\alpha} (omlmathrm), = \alphaup (kpfonts mathdesign), = \upalpha (upgreek),  alpha, greek-->
-    <char character="&#x3B1;" string="${\alpha}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B1;" string="{\alpha}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\beta} (omlmathrm), = \betaup (kpfonts mathdesign), = \upbeta (upgreek),  beta, greek-->
     <char character="&#x3B2;" string="\beta"/>
     <!--= \mathrm{\beta} (omlmathrm), = \betaup (kpfonts mathdesign), = \upbeta (upgreek),  beta, greek-->
     <char character="&#x3B2;" string="\beta" mode="text"/>
     <!--= \mathrm{\beta} (omlmathrm), = \betaup (kpfonts mathdesign), = \upbeta (upgreek),  beta, greek-->
-    <char character="&#x3B2;" string="$\boldsymbol{\upbeta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B2;" string="\boldsymbol{\beta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\beta} (omlmathrm), = \betaup (kpfonts mathdesign), = \upbeta (upgreek),  beta, greek-->
-    <char character="&#x3B2;" string="${\beta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B2;" string="{\beta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\gamma} (omlmathrm), = \gammaup (kpfonts mathdesign), = \upgamma (upgreek),  gamma, greek-->
     <char character="&#x3B3;" string="\gamma"/>
     <!--= \mathrm{\gamma} (omlmathrm), = \gammaup (kpfonts mathdesign), = \upgamma (upgreek),  gamma, greek-->
-    <char character="&#x3B3;" string="${\upgamma}$" mode="text"/>
+    <char character="&#x3B3;" string="{\gamma}" mode="text"/>
     <!--= \mathrm{\gamma} (omlmathrm), = \gammaup (kpfonts mathdesign), = \upgamma (upgreek),  gamma, greek-->
-    <char character="&#x3B3;" string="$\boldsymbol{\upgamma}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B3;" string="\boldsymbol{\gamma}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\gamma} (omlmathrm), = \gammaup (kpfonts mathdesign), = \upgamma (upgreek),  gamma, greek-->
-    <char character="&#x3B3;" string="${\gamma}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B3;" string="{\gamma}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\delta} (omlmathrm), = \deltaup (kpfonts mathdesign), = \updelta (upgreek),  delta, greek-->
     <char character="&#x3B4;" string="\delta"/>
     <!--= \mathrm{\delta} (omlmathrm), = \deltaup (kpfonts mathdesign), = \updelta (upgreek),  delta, greek-->
-    <char character="&#x3B4;" string="${\updelta}$" mode="text"/>
+    <char character="&#x3B4;" string="{\delta}" mode="text"/>
     <!--= \mathrm{\delta} (omlmathrm), = \deltaup (kpfonts mathdesign), = \updelta (upgreek),  delta, greek-->
-    <char character="&#x3B4;" string="$\boldsymbol{\updelta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B4;" string="\boldsymbol{\delta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\delta} (omlmathrm), = \deltaup (kpfonts mathdesign), = \updelta (upgreek),  delta, greek-->
-    <char character="&#x3B4;" string="${\delta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B4;" string="{\delta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\varepsilon} (omlmathrm), = \varepsilonup (kpfonts mathdesign), rounded = \upepsilon (upgreek),  epsilon, greek-->
     <char character="&#x3B5;" string="\varepsilon"/>
     <!--= \mathrm{\varepsilon} (omlmathrm), = \varepsilonup (kpfonts mathdesign), rounded = \upepsilon (upgreek),  epsilon, greek-->
-    <char character="&#x3B5;" string="${\upvarepsilon}$" mode="text"/>
+    <char character="&#x3B5;" string="{\varepsilon}" mode="text"/>
     <!--= \mathrm{\varepsilon} (omlmathrm), = \varepsilonup (kpfonts mathdesign), rounded = \upepsilon (upgreek),  epsilon, greek-->
-    <char character="&#x3B5;" string="$\boldsymbol{\upvarepsilon}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B5;" string="\boldsymbol{\varepsilon}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\varepsilon} (omlmathrm), = \varepsilonup (kpfonts mathdesign), rounded = \upepsilon (upgreek),  epsilon, greek-->
-    <char character="&#x3B5;" string="${\varepsilon}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B5;" string="{\varepsilon}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\zeta} (omlmathrm), = \zetaup (kpfonts mathdesign), = \upzeta (upgreek),  zeta, greek-->
     <char character="&#x3B6;" string="\zeta"/>
     <!--= \mathrm{\zeta} (omlmathrm), = \zetaup (kpfonts mathdesign), = \upzeta (upgreek),  zeta, greek-->
-    <char character="&#x3B6;" string="${\upzeta}$" mode="text"/>
+    <char character="&#x3B6;" string="{\zeta}" mode="text"/>
     <!--= \mathrm{\zeta} (omlmathrm), = \zetaup (kpfonts mathdesign), = \upzeta (upgreek),  zeta, greek-->
-    <char character="&#x3B6;" string="${\zeta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B6;" string="{\zeta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\eta} (omlmathrm), = \etaup (kpfonts mathdesign), = \upeta (upgreek),  eta, greek-->
     <char character="&#x3B7;" string="\eta"/>
     <!--= \mathrm{\eta} (omlmathrm), = \etaup (kpfonts mathdesign), = \upeta (upgreek),  eta, greek-->
-    <char character="&#x3B7;" string="${\upeta}$" mode="text"/>
+    <char character="&#x3B7;" string="{\eta}" mode="text"/>
     <!--= \mathrm{\eta} (omlmathrm), = \etaup (kpfonts mathdesign), = \upeta (upgreek),  eta, greek-->
-    <char character="&#x3B7;" string="${\eta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B7;" string="{\eta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\theta} (omlmathrm), = \thetaup (kpfonts mathdesign), straight theta, = \uptheta (upgreek),  theta, greek-->
     <char character="&#x3B8;" string="\theta"/>
     <!--= \mathrm{\theta} (omlmathrm), = \thetaup (kpfonts mathdesign), straight theta, = \uptheta (upgreek),  theta, greek-->
-    <char character="&#x3B8;" string="${\uptheta}$" mode="text"/>
+    <char character="&#x3B8;" string="{\theta}" mode="text"/>
     <!--= \mathrm{\theta} (omlmathrm), = \thetaup (kpfonts mathdesign), straight theta, = \uptheta (upgreek),  theta, greek-->
-    <char character="&#x3B8;" string="$\boldsymbol{\uptheta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B8;" string="\boldsymbol{\theta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\theta} (omlmathrm), = \thetaup (kpfonts mathdesign), straight theta, = \uptheta (upgreek),  theta, greek-->
-    <char character="&#x3B8;" string="${\theta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B8;" string="{\theta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\iota} (omlmathrm), = \iotaup (kpfonts mathdesign), = \upiota (upgreek),  iota, greek-->
     <char character="&#x3B9;" string="\iota"/>
     <!--= \mathrm{\iota} (omlmathrm), = \iotaup (kpfonts mathdesign), = \upiota (upgreek),  iota, greek-->
-    <char character="&#x3B9;" string="${\upiota}$" mode="text"/>
+    <char character="&#x3B9;" string="{\iota}" mode="text"/>
     <!--= \mathrm{\iota} (omlmathrm), = \iotaup (kpfonts mathdesign), = \upiota (upgreek),  iota, greek-->
-    <char character="&#x3B9;" string="$\boldsymbol{\upiota}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3B9;" string="\boldsymbol{\iota}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\iota} (omlmathrm), = \iotaup (kpfonts mathdesign), = \upiota (upgreek),  iota, greek-->
-    <char character="&#x3B9;" string="${\iota}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3B9;" string="{\iota}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\kappa} (omlmathrm), = \kappaup (kpfonts mathdesign), = \upkappa (upgreek),  kappa, greek-->
     <char character="&#x3BA;" string="\kappa"/>
     <!--= \mathrm{\kappa} (omlmathrm), = \kappaup (kpfonts mathdesign), = \upkappa (upgreek),  kappa, greek-->
-    <char character="&#x3BA;" string="${\upkappa}$" mode="text"/>
+    <char character="&#x3BA;" string="{\kappa}" mode="text"/>
     <!--= \mathrm{\kappa} (omlmathrm), = \kappaup (kpfonts mathdesign), = \upkappa (upgreek),  kappa, greek-->
-    <char character="&#x3BA;" string="$\boldsymbol{\upkappa}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3BA;" string="\boldsymbol{\kappa}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\kappa} (omlmathrm), = \kappaup (kpfonts mathdesign), = \upkappa (upgreek),  kappa, greek-->
-    <char character="&#x3BA;" string="${\kappa}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3BA;" string="{\kappa}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\lambda} (omlmathrm), = \lambdaup (kpfonts mathdesign), = \uplambda (upgreek),  lambda, greek-->
     <char character="&#x3BB;" string="\lambda"/>
     <!--= \mathrm{\lambda} (omlmathrm), = \lambdaup (kpfonts mathdesign), = \uplambda (upgreek),  lambda, greek-->
-    <char character="&#x3BB;" string="${\uplambda}$" mode="text"/>
+    <char character="&#x3BB;" string="{\lambda}" mode="text"/>
     <!--= \mathrm{\lambda} (omlmathrm), = \lambdaup (kpfonts mathdesign), = \uplambda (upgreek),  lambda, greek-->
-    <char character="&#x3BB;" string="$\boldsymbol{\uplambda}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3BB;" string="\boldsymbol{\lambda}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\lambda} (omlmathrm), = \lambdaup (kpfonts mathdesign), = \uplambda (upgreek),  lambda, greek-->
-    <char character="&#x3BB;" string="${\lambda}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3BB;" string="{\lambda}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
     <char character="&#x3BC;" string="\mu"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
-    <char character="&#x3BC;" string="\mu" mode="text"/>
+    <char character="&#x3BC;" string="{\mu}" mode="text"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
     <char character="&#x3BC;" string="\boldsymbol{\mu}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\mu} (omlmathrm), = \muup (kpfonts mathdesign), = \upmu (upgreek),  mu, greek-->
-    <char character="&#x3BC;" string="${\mu}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3BC;" string="{\mu}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\nu} (omlmathrm), = \nuup (kpfonts mathdesign), = \upnu (upgreek),  nu, greek-->
     <char character="&#x3BD;" string="\nu"/>
     <!--= \mathrm{\nu} (omlmathrm), = \nuup (kpfonts mathdesign), = \upnu (upgreek),  nu, greek-->
-    <char character="&#x3BD;" string="${\upnu}$" mode="text"/>
+    <char character="&#x3BD;" string="{\nu}" mode="text"/>
     <!--= \mathrm{\nu} (omlmathrm), = \nuup (kpfonts mathdesign), = \upnu (upgreek),  nu, greek-->
-    <char character="&#x3BD;" string="$\boldsymbol{\upnu}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3BD;" string="\boldsymbol{\nu}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\nu} (omlmathrm), = \nuup (kpfonts mathdesign), = \upnu (upgreek),  nu, greek-->
-    <char character="&#x3BD;" string="${\nu}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3BD;" string="{\nu}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\xi} (omlmathrm), = \xiup (kpfonts mathdesign), = \upxi (upgreek),  xi, greek-->
     <char character="&#x3BE;" string="\xi"/>
     <!--= \mathrm{\xi} (omlmathrm), = \xiup (kpfonts mathdesign), = \upxi (upgreek),  xi, greek-->
-    <char character="&#x3BE;" string="${\upxi}$" mode="text"/>
+    <char character="&#x3BE;" string="{\xi}" mode="text"/>
     <!--= \mathrm{\xi} (omlmathrm), = \xiup (kpfonts mathdesign), = \upxi (upgreek),  xi, greek-->
-    <char character="&#x3BE;" string="$\boldsymbol{\upxi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3BE;" string="\boldsymbol{\xi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\xi} (omlmathrm), = \xiup (kpfonts mathdesign), = \upxi (upgreek),  xi, greek-->
-    <char character="&#x3BE;" string="${\xi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3BE;" string="{\xi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!-- omicron, greek -->
     <char character="&#x3BF;" string="o"/>
     <!-- omicron, greek -->
@@ -662,111 +662,111 @@
     <!--= \mathrm{\pi} (omlmathrm), = \piup (kpfonts mathdesign), = \uppi (upgreek),  pi, greek-->
     <char character="&#x3C0;" string="\pi"/>
     <!--= \mathrm{\pi} (omlmathrm), = \piup (kpfonts mathdesign), = \uppi (upgreek),  pi, greek-->
-    <char character="&#x3C0;" string="${\uppi}$" mode="text"/>
+    <char character="&#x3C0;" string="{\pi}" mode="text"/>
     <!--= \mathrm{\pi} (omlmathrm), = \piup (kpfonts mathdesign), = \uppi (upgreek),  pi, greek-->
-    <char character="&#x3C0;" string="$\boldsymbol{\uppi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C0;" string="\boldsymbol{\pi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\pi} (omlmathrm), = \piup (kpfonts mathdesign), = \uppi (upgreek),  pi, greek-->
-    <char character="&#x3C0;" string="${\pi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C0;" string="{\pi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\rho} (omlmathrm), = \rhoup (kpfonts mathdesign), = \uprho (upgreek),  rho, greek-->
     <char character="&#x3C1;" string="\rho"/>
     <!--= \mathrm{\rho} (omlmathrm), = \rhoup (kpfonts mathdesign), = \uprho (upgreek),  rho, greek-->
-    <char character="&#x3C1;" string="${\uprho}$" mode="text"/>
+    <char character="&#x3C1;" string="{\rho}" mode="text"/>
     <!--= \mathrm{\rho} (omlmathrm), = \rhoup (kpfonts mathdesign), = \uprho (upgreek),  rho, greek-->
-    <char character="&#x3C1;" string="$\boldsymbol{\uprho}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C1;" string="\boldsymbol{\rho}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\rho} (omlmathrm), = \rhoup (kpfonts mathdesign), = \uprho (upgreek),  rho, greek-->
-    <char character="&#x3C1;" string="${\rho}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C1;" string="{\rho}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\varsigma} (omlmathrm), = \varsigmaup (kpfonts mathdesign), terminal sigma, greek-->
     <char character="&#x3C2;" string="\varsigma"/>
     <!--= \mathrm{\varsigma} (omlmathrm), = \varsigmaup (kpfonts mathdesign), terminal sigma, greek-->
-    <char character="&#x3C2;" string="${\mathrm{\varsigma}}$" mode="text"/>
+    <char character="&#x3C2;" string="{\mathrm{\varsigma}}" mode="text"/>
     <!--= \mathrm{\varsigma} (omlmathrm), = \varsigmaup (kpfonts mathdesign), terminal sigma, greek-->
-    <char character="&#x3C2;" string="$\boldsymbol{\mathrm{\varsigma}}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C2;" string="\boldsymbol{\mathrm{\varsigma}}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\varsigma} (omlmathrm), = \varsigmaup (kpfonts mathdesign), terminal sigma, greek-->
-    <char character="&#x3C2;" string="${\varsigma}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C2;" string="{\varsigma}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\sigma} (omlmathrm), = \sigmaup (kpfonts mathdesign), = \upsigma (upgreek),  sigma, greek-->
     <char character="&#x3C3;" string="\sigma"/>
     <!--= \mathrm{\sigma} (omlmathrm), = \sigmaup (kpfonts mathdesign), = \upsigma (upgreek),  sigma, greek-->
-    <char character="&#x3C3;" string="${\upsigma}$" mode="text"/>
+    <char character="&#x3C3;" string="{\sigma}" mode="text"/>
     <!--= \mathrm{\sigma} (omlmathrm), = \sigmaup (kpfonts mathdesign), = \upsigma (upgreek),  sigma, greek-->
-    <char character="&#x3C3;" string="$\boldsymbol{\upsigma}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C3;" string="\boldsymbol{\sigma}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\sigma} (omlmathrm), = \sigmaup (kpfonts mathdesign), = \upsigma (upgreek),  sigma, greek-->
-    <char character="&#x3C3;" string="${\sigma}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C3;" string="{\sigma}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\tau} (omlmathrm), = \tauup (kpfonts mathdesign), = \uptau (upgreek),  tau, greek-->
     <char character="&#x3C4;" string="\tau"/>
     <!--= \mathrm{\tau} (omlmathrm), = \tauup (kpfonts mathdesign), = \uptau (upgreek),  tau, greek-->
-    <char character="&#x3C4;" string="${\uptau}$" mode="text"/>
+    <char character="&#x3C4;" string="{\tau}" mode="text"/>
     <!--= \mathrm{\tau} (omlmathrm), = \tauup (kpfonts mathdesign), = \uptau (upgreek),  tau, greek-->
-    <char character="&#x3C4;" string="$\boldsymbol{\uptau}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C4;" string="\boldsymbol{\tau}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\tau} (omlmathrm), = \tauup (kpfonts mathdesign), = \uptau (upgreek),  tau, greek-->
-    <char character="&#x3C4;" string="${\tau}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C4;" string="{\tau}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\upsilon} (omlmathrm), = \upsilonup (kpfonts mathdesign), = \upupsilon (upgreek),  upsilon, greek-->
     <char character="&#x3C5;" string="\upsilon"/>
     <!--= \mathrm{\upsilon} (omlmathrm), = \upsilonup (kpfonts mathdesign), = \upupsilon (upgreek),  upsilon, greek-->
-    <char character="&#x3C5;" string="${\upupsilon}$" mode="text"/>
+    <char character="&#x3C5;" string="{\upsilon}" mode="text"/>
     <!--= \mathrm{\upsilon} (omlmathrm), = \upsilonup (kpfonts mathdesign), = \upupsilon (upgreek),  upsilon, greek-->
-    <char character="&#x3C5;" string="$\boldsymbol{\upupsilon}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C5;" string="\boldsymbol{\upsilon}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\upsilon} (omlmathrm), = \upsilonup (kpfonts mathdesign), = \upupsilon (upgreek),  upsilon, greek-->
-    <char character="&#x3C5;" string="${\upsilon}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C5;" string="{\upsilon}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\varphi} (omlmathrm), = \varphiup (kpfonts mathdesign), curly or open = \upvarphi (upgreek),  phi, greek-->
     <char character="&#x3C6;" string="\varphi"/>
     <!--= \mathrm{\varphi} (omlmathrm), = \varphiup (kpfonts mathdesign), curly or open = \upvarphi (upgreek),  phi, greek-->
-    <char character="&#x3C6;" string="${\upvarphi}$" mode="text"/>
+    <char character="&#x3C6;" string="{\varphi}" mode="text"/>
     <!--= \mathrm{\varphi} (omlmathrm), = \varphiup (kpfonts mathdesign), curly or open = \upvarphi (upgreek),  phi, greek-->
-    <char character="&#x3C6;" string="$\boldsymbol{\upvarphi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C6;" string="\boldsymbol{\varphi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\varphi} (omlmathrm), = \varphiup (kpfonts mathdesign), curly or open = \upvarphi (upgreek),  phi, greek-->
-    <char character="&#x3C6;" string="${\varphi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C6;" string="{\varphi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\chi} (omlmathrm), = \chiup (kpfonts mathdesign), = \upchi (upgreek),  chi, greek-->
     <char character="&#x3C7;" string="\chi"/>
     <!--= \mathrm{\chi} (omlmathrm), = \chiup (kpfonts mathdesign), = \upchi (upgreek),  chi, greek-->
-    <char character="&#x3C7;" string="${\upchi}$" mode="text"/>
+    <char character="&#x3C7;" string="{\chi}" mode="text"/>
     <!--= \mathrm{\chi} (omlmathrm), = \chiup (kpfonts mathdesign), = \upchi (upgreek),  chi, greek-->
-    <char character="&#x3C7;" string="$\boldsymbol{\upchi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C7;" string="\boldsymbol{\chi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\chi} (omlmathrm), = \chiup (kpfonts mathdesign), = \upchi (upgreek),  chi, greek-->
-    <char character="&#x3C7;" string="${\chi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C7;" string="{\chi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\psi} (omlmathrm), = \psiup (kpfonts mathdesign), = \uppsi (upgreek),  psi, greek-->
     <char character="&#x3C8;" string="\psi"/>
     <!--= \mathrm{\psi} (omlmathrm), = \psiup (kpfonts mathdesign), = \uppsi (upgreek),  psi, greek-->
-    <char character="&#x3C8;" string="${\uppsi}$" mode="text"/>
+    <char character="&#x3C8;" string="{\psi}" mode="text"/>
     <!--= \mathrm{\psi} (omlmathrm), = \psiup (kpfonts mathdesign), = \uppsi (upgreek),  psi, greek-->
-    <char character="&#x3C8;" string="$\boldsymbol{\uppsi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C8;" string="\boldsymbol{\psi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\psi} (omlmathrm), = \psiup (kpfonts mathdesign), = \uppsi (upgreek),  psi, greek-->
-    <char character="&#x3C8;" string="${\psi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C8;" string="{\psi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\omega} (omlmathrm), = \omegaup (kpfonts mathdesign), = \upomega (upgreek),  omega, greek-->
     <char character="&#x3C9;" string="\omega"/>
     <!--= \mathrm{\omega} (omlmathrm), = \omegaup (kpfonts mathdesign), = \upomega (upgreek),  omega, greek-->
-    <char character="&#x3C9;" string="${\upomega}$" mode="text"/>
+    <char character="&#x3C9;" string="{\omega}" mode="text"/>
     <!--= \mathrm{\omega} (omlmathrm), = \omegaup (kpfonts mathdesign), = \upomega (upgreek),  omega, greek-->
-    <char character="&#x3C9;" string="$\boldsymbol{\upomega}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3C9;" string="\boldsymbol{\omega}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\omega} (omlmathrm), = \omegaup (kpfonts mathdesign), = \upomega (upgreek),  omega, greek-->
-    <char character="&#x3C9;" string="${\omega}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3C9;" string="{\omega}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--rounded = \upvarbeta (upgreek),  beta, greek-->
-    <char character="&#x3D0;" string="\upvarbeta"/>
+    <char character="&#x3D0;" string="\varbeta"/>
     <!--rounded = \upvarbeta (upgreek),  beta, greek-->
-    <char character="&#x3D0;" string="${\varbeta}$" mode="text"/>
+    <char character="&#x3D0;" string="{\varbeta}" mode="text"/>
     <!--= \mathrm{\vartheta} (omlmathrm), = \varthetaup (kpfonts mathdesign), curly or open theta-->
     <char character="&#x3D1;" string="\vartheta"/>
     <!--= \mathrm{\vartheta} (omlmathrm), = \varthetaup (kpfonts mathdesign), curly or open theta-->
-    <char character="&#x3D1;" string="${\upvartheta}$" mode="text"/>
+    <char character="&#x3D1;" string="{\vartheta}" mode="text"/>
     <!--= \mathrm{\vartheta} (omlmathrm), = \varthetaup (kpfonts mathdesign), curly or open theta-->
-    <char character="&#x3D1;" string="$\boldsymbol{\upvartheta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3D1;" string="\boldsymbol{\vartheta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\vartheta} (omlmathrm), = \varthetaup (kpfonts mathdesign), curly or open theta-->
-    <char character="&#x3D1;" string="${\vartheta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3D1;" string="{\vartheta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\phi} (omlmathrm), = \phiup (kpfonts mathdesign), GREEK PHI SYMBOL (straight)-->
     <char character="&#x3D5;" string="\phi"/>
     <!--= \mathrm{\phi} (omlmathrm), = \phiup (kpfonts mathdesign), GREEK PHI SYMBOL (straight)-->
-    <char character="&#x3D5;" string="${\upphi}$" mode="text"/>
+    <char character="&#x3D5;" string="{\phi}" mode="text"/>
     <!--= \mathrm{\phi} (omlmathrm), = \phiup (kpfonts mathdesign), GREEK PHI SYMBOL (straight)-->
-    <char character="&#x3D5;" string="$\boldsymbol{\upphi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3D5;" string="\boldsymbol{\phi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\phi} (omlmathrm), = \phiup (kpfonts mathdesign), GREEK PHI SYMBOL (straight)-->
-    <char character="&#x3D5;" string="${\phi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3D5;" string="{\phi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\varpi} (omlmathrm), = \varpiup (kpfonts mathdesign), GREEK PI SYMBOL (pomega)-->
     <char character="&#x3D6;" string="\varpi"/>
     <!--= \mathrm{\varpi} (omlmathrm), = \varpiup (kpfonts mathdesign), GREEK PI SYMBOL (pomega)-->
-    <char character="&#x3D6;" string="${\upvarpi}$" mode="text"/>
+    <char character="&#x3D6;" string="{\varpi}" mode="text"/>
     <!--= \mathrm{\varpi} (omlmathrm), = \varpiup (kpfonts mathdesign), GREEK PI SYMBOL (pomega)-->
-    <char character="&#x3D6;" string="$\boldsymbol{\upvarpi}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3D6;" string="\boldsymbol{\varpi}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--= \mathrm{\varpi} (omlmathrm), = \varpiup (kpfonts mathdesign), GREEK PI SYMBOL (pomega)-->
-    <char character="&#x3D6;" string="${\varpi}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3D6;" string="{\varpi}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \Koppa (wrisym), t \Qoppa (LGR), GREEK LETTER ARCHAIC KOPPA-->
     <char character="&#x3D8;" string="\Qoppa"/>
     <!--= \Koppa (wrisym), t \Qoppa (LGR), GREEK LETTER ARCHAIC KOPPA-->
@@ -834,17 +834,17 @@
     <!--= \mathrm{\varrho} (omlmathrm), = \varrhoup (kpfonts mathdesign), GREEK RHO SYMBOL (round)-->
     <char character="&#x3F1;" string="$\boldsymbol{\varrho}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!-- GREEK CAPITAL THETA SYMBOL  -->
-    <char character="&#x3F4;" string="${\Uptheta}$" mode="text"/>
+    <char character="&#x3F4;" string="{\Theta}" mode="text"/>
     <!-- GREEK CAPITAL THETA SYMBOL  -->
-    <char character="&#x3F4;" string="$\boldsymbol{\Uptheta}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3F4;" string="\boldsymbol{\Theta}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!-- GREEK CAPITAL THETA SYMBOL  -->
-    <char character="&#x3F4;" string="${\Theta}$" mode="text" context="*[@css:font-style eq 'italic']"/>
+    <char character="&#x3F4;" string="{\Theta}" mode="text" context="*[@css:font-style eq 'italic']"/>
     <!--= \mathrm{\epsilon} (omlmathrm), = \epsilonup (kpfonts mathdesign), GREEK LUNATE EPSILON SYMBOL-->
     <char character="&#x3F5;" string="\epsilon"/>
     <!--= \mathrm{\epsilon} (omlmathrm), = \epsilonup (kpfonts mathdesign), GREEK LUNATE EPSILON SYMBOL-->
-    <char character="&#x3F5;" string="${\epsilon}$" mode="text"/>
+    <char character="&#x3F5;" string="{\epsilon}" mode="text"/>
     <!--= \mathrm{\epsilon} (omlmathrm), = \epsilonup (kpfonts mathdesign), GREEK LUNATE EPSILON SYMBOL-->
-    <char character="&#x3F5;" string="$\boldsymbol{\epsilon}$" mode="text" context="*[@css:font-weight eq 'bold']"/>
+    <char character="&#x3F5;" string="\boldsymbol{\epsilon}" mode="text" context="*[@css:font-weight eq 'bold']"/>
     <!--GREEK REVERSED LUNATE EPSILON SYMBOL-->
     <char character="&#x3F6;" string="\backepsilon"/>
     <!--GREEK REVERSED LUNATE EPSILON SYMBOL-->
