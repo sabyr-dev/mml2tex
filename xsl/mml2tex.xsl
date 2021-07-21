@@ -222,9 +222,9 @@
           </xsl:otherwise>
         </xsl:choose>
       </xsl:when>
-      <xsl:otherwise>
+      <xsl:otherwise>  <!-- \sfrac -->
         <xsl:value-of select="if(@linethickness eq '0pt')   then '\genfrac{}{}{0pt}{}'
-          else if (@bevelled eq 'true') then '\sfrac'
+          else if (@bevelled eq 'true') then '\frac'
           else                               '\frac'"/>
         <xsl:apply-templates select="@*[not(local-name() = ('linethickness', 'bevelled'))]" mode="#current"/>
         <xsl:choose>
