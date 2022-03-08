@@ -909,15 +909,15 @@
     <!--MINUS SIGN -->
     <char character="&#x2012;" string="$-$" mode="text"/>
     <!--EN DASH -->
-    <char character="&#x2013;" string="\hbox{--}"/>
+    <char character="&#x2013;" string="\unicode{x2013}"/>
     <!--EN DASH -->
     <char character="&#x2013;" string="\textendash{}" mode="text"/>
     <!--EM DASH -->
-    <char character="&#x2014;" string="\hbox{---}"/>
+    <char character="&#x2014;" string="\unicode{x2014}"/>
     <!--EM DASH -->
     <char character="&#x2014;" string="\textemdash{}" mode="text"/>
     <!--HORIZONTAL BAR -->
-    <char character="&#x2015;" string="\hbox{---}"/>
+    <char character="&#x2015;" string="\unicode{x2015}"/>
     <!--HORIZONTAL BAR -->
     <char character="&#x2015;" string="{---}" mode="text"/>
     <!--= \Vert, double vertical bar-->
