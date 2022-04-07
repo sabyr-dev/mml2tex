@@ -536,10 +536,10 @@
   <xsl:template match="mover/*[. eq '&#x2da;']" mode="mathml2tex-accent-pre">
     <xsl:text>\mathring</xsl:text>
   </xsl:template>
-  <xsl:template match="mover/*[matches(., '^[&#xaf;&#x5f;&#x304;&#x305;&#x203e;]$')]" mode="mathml2tex-accent-pre">
+  <xsl:template match="mover/*[matches(., '^[&#x2d;&#xaf;&#x5f;&#x304;&#x305;&#x203e;]$')]" mode="mathml2tex-accent-pre">
     <xsl:text>\overline</xsl:text>
   </xsl:template>
-  <xsl:template match="munder/*[matches(., '^[&#xaf;&#x5f;&#x304;&#x305;&#x203e;]$')]" mode="mathml2tex-accent-pre">
+  <xsl:template match="munder/*[matches(., '^[&#x2d;&#xaf;&#x5f;&#x304;&#x305;&#x203e;]$')]" mode="mathml2tex-accent-pre">
     <xsl:text>\underline</xsl:text>
   </xsl:template>
   <xsl:template match="*[self::mover | self::munder]/*[matches(., $diacritics-regex)]" mode="mathml2tex-accent-pre" priority="0.4">
