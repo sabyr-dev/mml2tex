@@ -2615,9 +2615,9 @@
     <!--PITCHFORK-->
     <char character="&#x22D4;" string="${\pitchfork}$" mode="text"/>
     <!--parallel, equal; equal or parallel-->
-    <char character="&#x22D5;" string="\hash"/>
+    <!-- <char character="&#x22D5;" string="\hash"/> -->
     <!--parallel, equal; equal or parallel-->
-    <char character="&#x22D5;" string="${\hash}$" mode="text"/>
+    <!-- <char character="&#x22D5;" string="${\hash}$" mode="text"/> -->
     <!--less than, with dot-->
     <char character="&#x22D6;" string="\lessdot"/>
     <!--less than, with dot-->
