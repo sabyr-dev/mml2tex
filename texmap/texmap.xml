@@ -1416,7 +1416,7 @@
     <!--/frak Z, black-letter capital Z-->
     <char character="&#x2128;" string="${\mathfrak{Z}}$" mode="text"/>
     <!--# \mathring{\mathrm{A}}, Ångström capital A with ring-->
-    <char character="&#x212B;" string="\mathring{\mathrm{A}"/>
+    <char character="&#x212B;" string="\mathring{\mathrm{A}}"/>
     <!--# \mathring{\mathrm{A}}, Ångström capital A with ring-->
     <char character="&#x212B;" string="${\mathring{\mathrm{A}}$" mode="text"/>
     <!--bernoulli function (script capital B)-->
